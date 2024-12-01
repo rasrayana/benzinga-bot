@@ -1,0 +1,10 @@
+
+config.py
+processed_news.json
+bbb.txt
+.venv
+# Логи и кэш
+*.log
+__pycache__/
+*.pyc
+*.pyo
